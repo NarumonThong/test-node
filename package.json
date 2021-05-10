@@ -22,5 +22,9 @@
   "dependencies": {
     "concurrently": "^4.0.0",
     "ncp": "^2.0.0"
+  },
+  "engines": {
+    "node": "10.18.0",
+    "npm": "6.13.4"
   }
 }
